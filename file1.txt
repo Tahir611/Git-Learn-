@@ -3,3 +3,6 @@ this is line two.
 this is line three in main.
 this is line four in main.
 this is line five in main.
+this is line three in branch 1.
+this is line four in branch 1.
+this is line five in branch 1.
